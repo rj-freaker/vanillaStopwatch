@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: rgb(218, 212, 212);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    
+}
+.headding{
+    align-items: center;
+    font-size: 60px;
+    font-style: oblique;
+}
+.display-container{
+    padding: 10px 23px;
+    margin-bottom: 15px;
+    font-size: 45px;
+    font-weight:bolder;
+}
+
+.btn{
+    padding: 14px 15px;
+    border-radius: 0.5rem;
+
+}
